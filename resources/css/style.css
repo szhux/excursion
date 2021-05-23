@@ -15,12 +15,12 @@ body {
 .header--secondary {
     font-size: 42px ;
     font-weight: 300;
-    color: #ffffff;
+    color: gray;
 }
 
 .header--sub-header {
     font-size: 21px ;
-    color: lightgray;
+    color: gray;
 }
 
 /* LINKS */
